@@ -12,7 +12,7 @@ include_once("rutadb.php");
 		$idUS = ($consulta['IDUSER']);
 		if ($idUS!='') {
 			//Sentencia SQL contar usuario con ese codigo
-			$busc = mysql_query("Select * From usuarios Where IDUSER='$idUS' and DNI='$us' and PASS='$pa' and VOTCOMIT='si'",$conexion) or
+			$busc = mysql_query("Select * From usuarios Where IDUSER='$idUS' and DNI='$us' and PASS='$pa'",$conexion) or
 			die("Problemas en el busqueda2:".mysql_error());
 			$array=mysql_fetch_array($busc);
 			
