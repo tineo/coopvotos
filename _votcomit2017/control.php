@@ -31,7 +31,7 @@ include_once("rutadb.php");
 		
 				//Esto es para abrir seciones con codigo propio
 				session_start();
-				session_register("votcomit");
+//				session_register("votcomit");
 			    $autentificado = "SI";
 				$_SESSION["iduvalcomit"]=$arrayiduser;
 				$_SESSION["iduser"]=$arrayiduser;
