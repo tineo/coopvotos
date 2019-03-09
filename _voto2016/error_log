@@ -1,0 +1,4 @@
+[14-Mar-2012 17:41:53] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home/coopnxt/public_html/es/voto2012/rutadb.php on line 2
+[14-Mar-2012 19:51:28] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/coopnxt/public_html/es/voto2012/sec.php on line 20
+[19-Apr-2013 12:05:43] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/coopnxt/public_html/es/_voto2012/rutadb.php on line 2
+[19-Apr-2013 12:05:44] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/coopnxt/public_html/es/_voto2012/rutadb.php on line 2

@@ -1,0 +1,2 @@
+[18-May-2012 01:59:54] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home/coopnxt/public_html/es/votcomit/rutadb.php on line 2
+[08-May-2014 10:27:12] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home/coopnxt/public_html/es/_votcomit2014/rutadb.php on line 2

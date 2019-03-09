@@ -1,0 +1,218 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+.texto-negro-gr{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:18px;
+	color:#000;
+	text-decoration:none;
+}
+.texto-plomo{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+	color:#303030;
+	text-decoration:none;
+	border: thin solid #999999;
+}
+.texto-plomo2{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#303030;
+	text-decoration:none;
+}
+.texto-plomo3{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:8px;
+	color:#303030;
+	text-decoration:none;
+}
+.texto-guinda{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+	color:#FF3D00;
+	text-decoration:none;
+	font-weight: bold;
+}
+.texto-guinda2{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+	color:#0154A0;
+	text-decoration:none;
+}
+.texto-guinda3{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:16px;
+	color:#0154A0;
+	text-decoration:none;
+}
+.link-plomo1{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#303030;
+	text-decoration:underline;
+}
+.link-plomo1:hover{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#303030;
+	text-decoration:none;
+}
+.link-blanco1{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:16px;
+	color:#fff;
+	text-decoration:none;
+}
+.link-blanco1:hover{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:16px;
+	color:#FFFFFF;
+	text-decoration:underline;
+}
+.link-guinda1{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+	color:#303030;
+	text-decoration:underline;
+}
+.link-guinda1:hover{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+	color:#0154A0;
+	text-decoration:none;
+}
+.link-guinda2{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+	color:#959595;
+	text-decoration:none;
+}
+.sobre:hover{
+	background-color:#DFDFDF;
+}
+span.img-rollover{ width: 170px; height: 26px; overflow: hidden; display: block; position: relative; }
+span.img-rollover a:hover{ top: -26px; position: relative;}
+.link-blanco2{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:10px;
+	font-weight:bold;
+	color:#fff;
+	text-decoration:none;
+}
+.link-blanco2:hover{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:10px;
+	font-weight:bold;
+	color:#fff;
+	text-decoration:underline;
+}
+.link-naranja01{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:10px;
+	font-weight:bold;
+	color:#000;
+	text-decoration:none;
+}
+.link-naranja01:hover{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:10px;
+	font-weight:bold;
+	color: #0154A0;
+	text-decoration:none;
+}
+.sobre:hover{
+	background-color:#DFDFDF;
+}
+.link-naranja03{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+	color:#0154A0;
+	text-decoration:none;
+}
+.link-naranja03:hover{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+	text-decoration:none;
+}
+.texto-plomo3{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#303030;
+	text-decoration:none;
+}
+.textoPEQUEÑO {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+	color:#303030;
+	text-decoration:none;
+	border-top-width: thin;
+	border-right-width: thin;
+	border-bottom-width: thin;
+	border-left-width: thin;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+}
+.BotonLOGIN {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+	color:#FFFFFF;
+	text-decoration:none;
+	border: thin solid #999999;
+	background-color: #0154A0;
+}
+.NumerosLOGIN {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:10px;
+	font-weight:bold;
+	color:#000;
+	text-decoration:none;
+	cursor:pointer;
+}
+.linkMENU-Other {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:16px;
+	color:#fff;
+	text-decoration:none;
+}
+.TITULOminiBANNER {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:14px;
+	color:#FFFFFF;
+	text-decoration:none;
+	font-weight: normal;
+}
+.texto-guinda3sinNEGRITA {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:16px;
+	color:#0154A0;
+	text-decoration:none;
+}
+.textopequeTACHADO {
+	font-family: "Century Gothic";
+	font-size: 12px;
+	color: #999999;
+	text-decoration: line-through;
+}
+/*ESTO ES PARA LA VALIDACION*/
+.error {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+	color:#0154A0;
+	text-decoration: none;
+	/*border: thin solid #CCCCCC;*/
+	background-color: #EEEEEE;
+	border: thin solid #999999;
+}
+.TEXTOFORMATO {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:9px;
+	color:#FF0000;
+	text-decoration:none;
+}
